@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BUJNQoayNsys24KuWVtxLlzt1PPHBB9aRVzWpCIU6FE=",
+  "Source": "Sleep-Tracker-WebApi",
+  "BasePath": "_content/Sleep-Tracker-WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
