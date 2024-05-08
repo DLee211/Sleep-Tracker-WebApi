@@ -148,3 +148,4 @@ C:\Users\dnll4\RiderProjects\Sleep-Tracker-WebApi\Sleep-Tracker-WebApi\obj\Debug
 C:\Users\dnll4\RiderProjects\Sleep-Tracker-WebApi\Sleep-Tracker-WebApi\obj\Debug\net8.0\Sleep-Tracker-WebApi.pdb
 C:\Users\dnll4\RiderProjects\Sleep-Tracker-WebApi\Sleep-Tracker-WebApi\obj\Debug\net8.0\Sleep-Tracker-WebApi.genruntimeconfig.cache
 C:\Users\dnll4\RiderProjects\Sleep-Tracker-WebApi\Sleep-Tracker-WebApi\obj\Debug\net8.0\ref\Sleep-Tracker-WebApi.dll
+C:\Users\dnll4\RiderProjects\Sleep-Tracker-WebApi\Sleep-Tracker-WebApi\obj\Debug\net8.0\Sleep-Tracker-WebApi.sourcelink.json
