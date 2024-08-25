@@ -1,5 +1,5 @@
 # Sleep Tracker WebApi
-The Sleep Tracker WebApi is a RESTful API built with .NET Core, designed to handle sleep data for the Sleep Logger application. It provides endpoints for CRUD operations on sleep records and integrates with Swagger for API documentation and testing.
+The Sleep Tracker WebApi is a RESTful API built with .NET Core, designed to handle sleep data for the [Sleep Logger application](https://github.com/DLee211/Sleep-Tracker-Front-End). It provides endpoints for CRUD operations on sleep records and integrates with Swagger for API documentation and testing.
 
 ## Features
 1. RESTful API endpoints for managing sleep records.
